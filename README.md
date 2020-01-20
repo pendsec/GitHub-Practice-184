@@ -45,6 +45,7 @@
 | Yoojin Lim        | Section 001       | yjl0820             | <https://yjl0820.github.io/Stat184/> |
 | Daniel Jung       | Section 001       | dqj5182            | <https://dqj5182.github.io/stat184/>     | 
 | Iffah Mohamad Saufi | Section 001       | ivm5141             | <https://ivm5141.github.io/Saufi-github-demo/> |
+| Chinmay Pendse    | Section 001       | pendsec             | <https://pendsec.github.io/Stat184-1/> |
 
 <br>
 
